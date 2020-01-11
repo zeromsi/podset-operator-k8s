@@ -8,3 +8,4 @@ Video: https://www.youtube.com/watch?v=Lv4TTsGiK5E
 
 Must read: https://devops.college/developing-kubernetes-operator-is-now-easy-with-operator-framework-d3194a7428ff
 Better: https://www.youtube.com/watch?v=uxR7Mfpn9HI
+Deployement: https://docs.okd.io/latest/operators/osdk-getting-started.html
