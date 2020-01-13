@@ -11,3 +11,5 @@ Better: https://www.youtube.com/watch?v=uxR7Mfpn9HI
 Deployement: https://docs.okd.io/latest/operators/osdk-getting-started.html
 
 Issue trace: https://github.com/operator-framework/operator-sdk/issues/2392#issuecomment-573413089
+
+[Quick Start](https://github.com/operator-framework/operator-sdk#create-and-deploy-an-app-operator)
